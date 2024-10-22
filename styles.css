@@ -1,9 +1,14 @@
 h1{
 font-size: 50px;
 text-align: center;
+color:darkblue;
+}
+h2{
+text-align:center ;
+}
 }
 body{
-background: url("https://img.freepik.com/premium-vector/drawing-cookie-with-berries-it_410516-79486.jpg");
+background-image: url("https://media.istockphoto.com/id/1364276057/vector/vector-seamless-pattern-with-cookies-colorful.jpg");
 backdrop-filter: blur(10px);
 
 }
