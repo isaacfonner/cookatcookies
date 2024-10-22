@@ -2,3 +2,8 @@ h1{
 font-size: 50px;
 text-align: center;
 }
+body{
+background: url("https://img.freepik.com/premium-vector/drawing-cookie-with-berries-it_410516-79486.jpg");
+backdrop-filter: blur(10px);
+
+}
