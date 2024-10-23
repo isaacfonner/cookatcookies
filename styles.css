@@ -1,13 +1,27 @@
 h1{
 font-size: 50px;
 text-align: center;
-color:darkblue;
+color:aliceblue;
 }
 h2{
-text-align:center ;
+    text-align: center;
+color:aliceblue ;
 }
 
 .nigger{
-background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZD5Dni2cpqZjU7o761Y2XwrG57_5zY6ALhp1QfXzhYD0CQ-w:https://www.ruleranalytics.com/wp-content/uploads/third-party-cookies-ruler-analytics.png&s");
-backdrop-filter: blur(6px);
+background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqS6RMcNONqn2KK29Psig9awE52Y8nhTuCMiQGYiW-j1RvGPk:https://cloudfour.com/wp-content/uploads/2023/04/cookie.svg&s");
+}
+p{
+    text-align: center;
+color:aliceblue
+}
+img{
+border:4px solid black;
+}
+li{
+color:aliceblue
+}
+div{
+background-color:;
+border:9px solid black
 }
