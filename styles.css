@@ -1,27 +1,29 @@
 h1{
 font-size: 50px;
 text-align: center;
-color:aliceblue;
+color:black;
 }
 h2{
     text-align: center;
-color:aliceblue ;
+color:black ;
 }
 
 .nig{
-background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqS6RMcNONqn2KK29Psig9awE52Y8nhTuCMiQGYiW-j1RvGPk:https://cloudfour.com/wp-content/uploads/2023/04/cookie.svg&s");
+    background-image: url("https://t4.ftcdn.net/jpg/01/78/30/95/360_F_178309544_3fzQDhPgmAmlpDIVge7EoOZK7U7reA7X.jpg");
 }
 p{
     text-align: center;
-color:aliceblue
+color:black
 }
-img{
-border:4px solid black;
-}
+
 li{
-color:aliceblue
+color:black
 }
 div{
-border:9px solid black
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 15px; /* Adjust the value as needed */
+	text-align: center;
 }
- 
+img {
+  
+}
