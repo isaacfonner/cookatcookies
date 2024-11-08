@@ -1,4 +1,10 @@
-.topbar {
-    text-decoration: underline;
-    margin-right: 1%;
+header a {
+    margin-right: 3px;
+}
+header {
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 15px;
 }
