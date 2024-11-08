@@ -8,3 +8,12 @@ header {
 h1 {
     margin-bottom: 15px;
 }
+
+body {
+    text-align: center;
+    align-items: center;
+}
+
+div img {
+    margin-left: 10px;
+}
